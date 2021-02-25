@@ -4,6 +4,7 @@
 * 🖥 Actualmente me encuentro estudiando Ingeníeria en Sistemas Computacionales.
 *  👥 Soy una persona que le gusta hablar mucho y de todo.
 *  👀 Me gusta observar todo.
+*  ⌨🖱  Me gusta programar. 
 
 <!--
 **organesa/organesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
