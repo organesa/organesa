@@ -1,5 +1,7 @@
 *Bienvenido a mi perfil*
 
+[
+
 🤯¿Do you want to meet me?🤯
 * 🖥 Actualmente me encuentro estudiando Ingeníeria en Sistemas Computacionales.
 *  👥 Soy una persona que le gusta hablar mucho y de todo.
