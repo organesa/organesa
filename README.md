@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there👋
+🤯¿Do you want to meet me?🤯
+
+-🏙 Soy de Tijuana.
+
+-🖥 Actualmente me encuentro estudiando Ingeníeria en Sistemas Computacionales.
+
+-👥 Soy una persona que le gusta hablar mucho y  de todo.
+
+-👀 Me gusta observar todo.
 
 <!--
 **organesa/organesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
