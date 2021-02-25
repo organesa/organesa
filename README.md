@@ -1,4 +1,4 @@
-*✨     Bienvenido a mi perfil     ✨
+*✨     Bienvenido a mi perfil     ✨*
 
 ![logo](/imagenes/programacion-2-e1551291144973.png)
 
