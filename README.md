@@ -1,6 +1,6 @@
 *Bienvenido a mi perfil*
 
-(imagenes/programacion-2-e1551291144973.png)
+(/imagenes/programacion-2-e1551291144973.png)
 
 🤯¿Do you want to meet me?🤯
 * 🖥 Actualmente me encuentro estudiando Ingeníeria en Sistemas Computacionales.
