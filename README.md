@@ -9,7 +9,7 @@
 *  👀 Me gusta observar todo.
 *  ⌨🖱  Me gusta programar. 
 
-![horario](
+![horario](/imagenes/cooltext377630065200219.png)
 
 Hora/Dia | Lunes | Martes | Miercoles | Jueves | Viernes
 ------------ | ------------- | ------------ | ------------- | ------------ | -------------
