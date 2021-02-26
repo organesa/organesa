@@ -9,7 +9,17 @@
 *  👀 Me gusta observar todo.
 *  ⌨🖱  Me gusta programar. 
 
-**Horario**
+![horario](
+
+Hora/Dia | Lunes | Martes | Miercoles | Jueves | Viernes
+------------ | ------------- | ------------ | ------------- | ------------ | -------------
+2:00 | Programacion Web | Programacion Web | Programacion Web | Programacion Web | Programacion Web|
+3:00 | Ingenieria de software |Ingeniería de software | Ingeniería de software|Ingeniería de software |Ingeniería de software
+4:00| Sistemas programables |	Sistemas programables| 	Sistemas programables|	Sistemas programables|
+5:00|Lenguajes y automatas II|Lenguajes y autómatas II|Lenguajes y autómatas II|Lenguajes y autómatas II|Lenguajes y autómatas II
+6:00 |Redes de computadoras |Redes de computadoras|Redes de computadoras|Redes de computadoras|Redes de computadoras
+7:00|Programacion logica y funcional|Programacion logica y funcional|Programacion logica y funcional|Programacion logica y funcional
+
 <!--
 **organesa/organesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
